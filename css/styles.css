@@ -1,0 +1,35 @@
+h1{
+color:#ff1a1a;
+}
+
+h1{
+font-style:oblique;
+}
+
+h2{
+  color:#ff6666;
+}
+
+p{
+color:#ff9999;
+}
+
+p{
+font-size: 14pt
+}
+
+p{
+  font-style: italic;
+}
+
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}
+
+body {
+  background-image: url("https://www.hdwallpapers.in/download/white_hexagon_geometric_shapes_hd_white_aesthetic-HD.jpg"), url("paper.gif");
+  background-color: #cccccc;
+}
